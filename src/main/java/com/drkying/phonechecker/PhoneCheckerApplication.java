@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PhonecheckerApplication {
+public class PhoneCheckerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PhonecheckerApplication.class, args);
+		SpringApplication.run(PhoneCheckerApplication.class, args);
 	}
 
 }
